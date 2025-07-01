@@ -4,7 +4,7 @@
 
 - [ ] User Input / Output
 - [ ] Data Types
-- [ ] If Else Statements
+- [x] If Else Statements
 - [ ] Switch Statement
 - [ ] What are Arrays, Strings?
 - [ ] For Loops
